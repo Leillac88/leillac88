@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Leilla 😁
+## Bem-vindo(a)! 😁
 
  <div>
    <a href="https://github.com/leillac88">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Me siga nas redes abaixo!
+### Me siga nas redes!
  
 <div> 
     <a href="https://instagram.com/leillacarvalho88" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,6 +26,6 @@
 
 <div align=center>
 
-<img src="https://raw.githubusercontent.com/Leillac88/leillac88/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Leillac88/leillac88/output/snake.svg" alt="Snake animation"/>
 
 </div>
