@@ -1,7 +1,20 @@
  <div align=center>
-   <a href="https://github.com/leillac88">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leillac88&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leillac88&layout=compact&langs_count=6&theme=tokyonight"/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Leillac88&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<br>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leillac88&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 </div>
 
 <br>
