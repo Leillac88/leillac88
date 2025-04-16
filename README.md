@@ -1,13 +1,6 @@
-<center>
-
 # 👩🏻‍💻 Leilla Carvalho
-</center>
----
-
-<center>
 
 ### 🤖 Linguagens e Tecnologias
-</center>
 
 <div style="display: inline_block" align=center><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,11 +20,9 @@
 
 ---
 ##
-<center>
+
 
 ### 📊 Estatísticas
-</center>
-<center>
 
 <p>
   <img 
@@ -48,7 +39,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leillac88&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-</center>
 
 ---
 
