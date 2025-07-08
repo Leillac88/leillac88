@@ -1,25 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Leilla Carvalho</h1>
+<h3 align="center">Full Stack Student | Frontend Lover | Tech Explorer</h3>
 
+<p align="center">🚀 Transformando ideias em interfaces e código em experiências.</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Leilla+Carvalho;I'm+a+Full+Stack+student;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leillac88/leillac88/main/leillagithub.png" width="250" alt="Mascote Tech da Leilla"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,supabase&perline=8" />
+</p>
+
+---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leillac88&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=BA55D3&text_color=c9d1d9&bg_color=0d1117" alt="Leilla Carvalho github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leillac88&layout=compact&hide_border=true&title_color=9400D3&text_color=BA55D3&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leillac88&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a" alt="Leilla Carvalho github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leillac88&layout=compact&hide_border=true&title_color=61dafb&text_color=ffffff&bg_color=20232a" />
 </div>
 
+---
 
-<div align=center>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leillac88/leillac88/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leillac88/leillac88/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leillac88/leillac88/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leillac88}/count.svg" /></p> 
-<br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
+> “Desenvolver é dar vida a pixels. Design é dar alma à interface.”  
+> — *Leilla em algum commit poético* 🎨
