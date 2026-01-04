@@ -17,13 +17,6 @@
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leillac88&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff&bg_color=20232a" alt="Leilla Carvalho github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leillac88&layout=compact&hide_border=true&title_color=61dafb&text_color=ffffff&bg_color=20232a" />
-</div>
-
----
-
 
 > “Desenvolver é dar vida a pixels. Design é dar alma à interface.”  
 > — *Leilla em algum commit poético* 🎨
