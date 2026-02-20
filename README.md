@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Leillac88/leillac88/main/leillagithub.png" width="250" alt="Mascote Tech da Leilla"/>
+  <img src="https://raw.githubusercontent.com/Leillac88/leillac88/main/caricature.png" width="250" alt="Mascote Tech da Leilla"/>
 </p>
 
 ---
